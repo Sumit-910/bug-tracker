@@ -1,0 +1,16 @@
+.dashboard{
+    display: grid;
+    grid-template-columns: 15fr 85fr;
+    background-color: #fbfaf5;
+
+    .right{
+        display: grid;
+        grid-template-rows: 2.5fr 3.5fr;
+
+        .up{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+    }
+}

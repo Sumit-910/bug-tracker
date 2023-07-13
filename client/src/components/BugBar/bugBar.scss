@@ -1,0 +1,42 @@
+Link{
+    text-decoration: none;
+    &:focus, &:hover, &:visited, &:link, &:active {
+        text-decoration: none;
+    }
+}
+
+.bugbar {
+    height: 3rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    text-align: center;
+    padding: 10px 0;
+    cursor: pointer;
+
+    .status{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 80px;
+        padding: 5px 10px;
+        border-radius: 20px;
+        margin: auto;
+
+        svg{
+            font-size: 1rem;
+        }
+    }
+
+    .priority{
+        width: 50px;
+        padding: 7px 15px;
+        border-radius: 20px;
+        margin: auto;
+    }
+}
+
+.separation{
+    width: 90%;
+    margin: auto;
+}

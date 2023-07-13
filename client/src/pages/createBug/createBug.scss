@@ -1,0 +1,104 @@
+.createbug {
+    display: grid;
+    grid-template-columns: 15fr 85fr;
+    // background-color: #fbfaf5;
+    background-color: #d0efff;
+
+    .formspace {
+        width: 60%;
+        min-height: 80%;
+        height: max-content;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        border: 1px solid #121212;
+        margin: auto;
+        border-radius: 20px;
+        background-color: #fbfaf5;
+
+        -webkit-box-shadow: 17px 17px 47px -24px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 17px 17px 47px -24px rgba(0, 0, 0, 0.75);
+        box-shadow: 17px 17px 47px -24px rgba(0, 0, 0, 0.75);
+
+        h1 {
+            font-size: 4rem;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+
+            .pname input, .plink input, .bname input, .bdetail input {
+                width: 20rem;
+                border: none;
+                border-bottom: 1px solid #121212;
+                background-color: inherit;
+                height: 30px;
+                padding: 10px;
+                padding-bottom: 0;
+                color: #121212;
+
+                &::placeholder {
+                    color: gray;
+                    font-weight: 300;
+                }
+            }
+
+            .radios{
+                display: grid;
+                grid-template-columns: repeat(2,1fr);
+
+
+                .priority, .status{
+                margin-top: 1rem;
+                
+                legend{
+                    font-size: 1.2rem;
+                    margin-bottom: 0.5rem;
+                }
+
+                .alloptions{
+                    // display: flex;
+                    font-size: 1rem;
+                    // flex-direction: row;
+                    justify-content: space-between;
+                }
+            }
+            }
+
+            .submitbtn{
+                background-color: #3892ff;
+                color: #fff;
+                border: none;
+                -webkit-border-radius: 28;
+                -moz-border-radius: 28;
+                border-radius: 28px;
+                font-family: Arial;
+                color: #ffffff;
+                font-size: 20px;
+                padding: 10px 20px 10px 20px;
+                text-decoration: none;
+                cursor: pointer;
+                margin-top: 1rem;
+
+                &:hover{
+                    text-decoration: none;
+                    background-color: #e6e3e3;
+                    color: #3892ff;
+                }
+            }
+
+            .assignUsers{
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+
+                .css-b62m3t-container{
+                    width: 15rem;
+                }
+            }
+        }
+    }
+}

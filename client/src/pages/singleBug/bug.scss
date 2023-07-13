@@ -1,0 +1,12 @@
+.bug{
+    display: grid;
+    grid-template-columns: 15fr 85fr;
+    // background-color: #fbfaf5;
+    background-color: #d0efff;
+
+    .bugdetail{
+        width: 50rem;
+        margin: auto;
+        margin-top: 2rem;
+    }
+}
