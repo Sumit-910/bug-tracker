@@ -14,23 +14,20 @@ This Bug Tracking System is a web application that allows users to report, track
 
 ## Landing Page
 
-- ![image](https://user-images.githubusercontent.com/59837325/125426848-39db8eeb-3e84-424d-869c-5b344ba55ba1.png)
+- ![landing page](https://github.com/Sumit-910/bug-tracker/assets/102291443/377ca6e7-0827-44c7-9d2a-9575310068fa)
 
 ## Dashboard
-
-- ![image](https://user-images.githubusercontent.com/59837325/125428224-08fcf962-46af-470a-abae-aaa893d2e0c7.png)
+- ![dashboard](https://github.com/Sumit-910/bug-tracker/assets/102291443/3b17a7c6-12c7-46a3-84b1-bebaf35b5d2d)
 
 ## Bugs page
-
-- ![image](https://user-images.githubusercontent.com/59837325/125428224-08fcf962-46af-470a-abae-aaa893d2e0c7.png)
+![bugs page](https://github.com/Sumit-910/bug-tracker/assets/102291443/747ada5b-8046-4e07-9a4b-903d94b075a7)
 
 ## Create Bug page
-
-- ![image](https://user-images.githubusercontent.com/59837325/125428224-08fcf962-46af-470a-abae-aaa893d2e0c7.png)
+![create bug](https://github.com/Sumit-910/bug-tracker/assets/102291443/3e2ea5dd-85cb-4682-acdf-0679c0757278)
 
 ## Individual Bug page
+![individual bug](https://github.com/Sumit-910/bug-tracker/assets/102291443/8fb18929-3c21-4ba1-aa07-24118fcedd26)
 
-- ![image](https://user-images.githubusercontent.com/59837325/125428224-08fcf962-46af-470a-abae-aaa893d2e0c7.png)
 
 ### Tools and Languages: 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></p>
