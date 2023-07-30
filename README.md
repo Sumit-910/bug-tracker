@@ -1,16 +1,5 @@
 # Bug Tracking System - MERN Stack
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?logo=github&style=for-the-badge)](https://github.com/Apurva-tech/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Apurva-tech/unite?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
-[![GitHub stars](https://img.shields.io/github/stars/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite/stargazers) 
-[![My stars](https://img.shields.io/github/stars/Apurva-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/Apurva-tech/unite/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/Apurva-tech/unite?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/unite/network)
-[![Code size](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite)
-[![Languages](https://img.shields.io/github/languages/count/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite)
-[![Top](https://img.shields.io/github/languages/top/Apurva-tech/unite?style=for-the-badge&label=Top%20Languages)](https://github.com/Apurva-tech/unite)
-[![Issues](https://img.shields.io/github/issues/Apurva-tech/unite?style=for-the-badge&label=Issues)](https://github.com/Apurva-tech/unite)
-[![Watchers](	https://img.shields.io/github/watchers/Apurva-tech/unite?label=Watch&style=for-the-badge)](https://github.com/Apurva-tech/unite/) 
-
 ## Overview
 
 This Bug Tracking System is a web application that allows users to report, track, and manage bugs and issues in their software projects. It is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing a full-stack solution for bug tracking and management.
