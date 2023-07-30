@@ -14,10 +14,10 @@ This Bug Tracking System is a web application that allows users to report, track
 
 ## Landing Page
 
-- ![landing page](https://github.com/Sumit-910/bug-tracker/assets/102291443/377ca6e7-0827-44c7-9d2a-9575310068fa)
+![landing page](https://github.com/Sumit-910/bug-tracker/assets/102291443/377ca6e7-0827-44c7-9d2a-9575310068fa)
 
 ## Dashboard
-- ![dashboard](https://github.com/Sumit-910/bug-tracker/assets/102291443/3b17a7c6-12c7-46a3-84b1-bebaf35b5d2d)
+![dashboard](https://github.com/Sumit-910/bug-tracker/assets/102291443/3b17a7c6-12c7-46a3-84b1-bebaf35b5d2d)
 
 ## Bugs page
 ![bugs page](https://github.com/Sumit-910/bug-tracker/assets/102291443/747ada5b-8046-4e07-9a4b-903d94b075a7)
